@@ -1,3 +1,7 @@
+---
+title : Euler Method
+---
+
 # Euler Method
 
 The Euler method is a first-order numerical procedure for solving ordinary differential equations (ODE) with a given initial value.
